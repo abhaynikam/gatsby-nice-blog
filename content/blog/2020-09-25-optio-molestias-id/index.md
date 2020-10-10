@@ -1,5 +1,5 @@
 ---
-title: sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio
+title: Sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio
 date: "2020-09-25"
 template: post
 ---

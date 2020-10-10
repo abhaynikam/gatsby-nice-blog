@@ -1,5 +1,5 @@
 ---
-title: nesciunt iure omnis dolorem tempora et accusantium
+title: Nesciunt iure omnis dolorem tempora et accusantium
 date: "2020-09-30"
 template: post
 ---

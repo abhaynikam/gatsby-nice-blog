@@ -1,5 +1,5 @@
 ---
-title: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+title: Sunt aut facere repellat provident occaecati excepturi optio reprehenderit
 date: "2020-09-01"
 template: post
 ---
