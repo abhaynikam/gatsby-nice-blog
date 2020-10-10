@@ -1,7 +1,7 @@
 {
   "name": "gatsby-nice-blog",
   "private": true,
-  "description": "A nice blog template by Abhay Nikam",
+  "description": "A nice starter blog post template built using Gatsby",
   "version": "0.1.0",
   "author": "Abhay Nikam <nikma.abhay1@gmail.com>",
   "bugs": {
