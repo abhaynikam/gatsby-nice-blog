@@ -6,9 +6,10 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
-  const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const { previous, next } = pageContext
+  const post = data.markdownRemark;
+  const siteTitle = data.site.siteMetadata?.title || `Title`;
+  const { previous, next } = pageContext;
+  const isPostTemplate = post.frontmatter.template === "post";
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -31,33 +32,38 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
         <hr />
       </article>
-      <nav className="blog-post-nav">
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.node.fields.slug} rel="prev">
-                ← {previous.node.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.node.fields.slug} rel="next">
-                {next.node.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav>
-      <hr />
+      {isPostTemplate && (
+        <>
+          <nav className="blog-post-nav">
+            <ul
+              style={{
+                display: `flex`,
+                flexWrap: `wrap`,
+                justifyContent: `space-between`,
+                listStyle: `none`,
+                padding: 0,
+              }}
+            >
+              <li>
+                {previous && (
+                  <Link to={previous.node.fields.slug} rel="prev">
+                    ← {previous.node.frontmatter.title}
+                  </Link>
+                )}
+              </li>
+              <li>
+                {next && (
+                  <Link to={next.node.fields.slug} rel="next">
+                    {next.node.frontmatter.title} →
+                  </Link>
+                )}
+              </li>
+            </ul>
+          </nav>
+          <hr />
+        </>
+      )}
+
       <footer><Bio /></footer>
     </Layout>
   )
@@ -74,12 +80,12 @@ export const pageQuery = graphql`
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
-      excerpt(pruneLength: 160)
       html
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        template
       }
     }
   }

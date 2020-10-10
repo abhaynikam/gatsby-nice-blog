@@ -280,8 +280,21 @@ a:focus {
 }
 
 .global-header {
+  display: flex;
+  align-items: flex-end;
   border-bottom: 2px solid;
   margin-bottom: var(--spacing-12);
+
+  .header-link-home,
+  .main-heading {
+    width: 50%;
+    text-align: left;
+  }
+
+  .header-nav-link {
+    width: 50%;
+    text-align: right;
+  }
 }
 
 .main-heading {
@@ -313,7 +326,7 @@ a:focus {
   font-weight: var(--fontWeight-bold);
   font-family: var(--font-heading);
   text-decoration: none;
-  font-size: var(--fontSize-2);
+  font-size: var(--fontSize-5);
 }
 
 .bio {

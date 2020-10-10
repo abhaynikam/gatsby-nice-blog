@@ -4,7 +4,7 @@ import Layout from '../components/Layout';
 import { useSiteMetadata } from '../hooks';
 
 const NotFoundTemplate = ({ location }) => {
-  const { title, subtitle } = useSiteMetadata();
+  const { title } = useSiteMetadata();
 
   return (
     <Layout title={title} location={location}>
