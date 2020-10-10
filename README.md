@@ -4,9 +4,19 @@
 
 <p align="center">
   <a href="https://github.com/abhaynikam/gatsby-nice-blog/blob/master/LICENSE.txt"><img alt="GitHub" src="https://img.shields.io/github/license/abhaynikam/gatsby-nice-blog?style=flat-square"></a>
-  <a href="https://nostalgic-liskov-e76c32.netlify.app/"><img alt="GitHub" src="https://img.shields.io/badge/-Demo-green?style=flat-square"></a>
-
+  <a href="https://nostalgic-liskov-e76c32.netlify.app/"><img alt="GitHub" src="https://img.shields.io/badge/-Demo-blue?style=flat-square"></a>
 </p>
+
+Nice blogs is a simple minimal blog template boilerplate built using Gatsby. Kickoff your blog website with simple steps and focus more on content than building and shipping a blog website.
+
+Check the [live demo on netlify](https://nostalgic-liskov-e76c32.netlify.app/) or [live demo on GitHub pages](https://abhaynikam.github.io/gatsby-nice-blog/).
+
+## Features
+- Pagniated minimalistic blog template.
+- Google analytics.
+- XML sitemap for helping search engines to find site.
+- SEO compliant.
+- Comments via Disqus.
 
 ## 🚀 Quick start
 
