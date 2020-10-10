@@ -318,7 +318,6 @@ a:focus {
 
 .bio {
   display: flex;
-  margin-bottom: var(--spacing-16);
 }
 
 .bio p {
@@ -343,6 +342,10 @@ a:focus {
 
 .blog-post-nav ul {
   margin: var(--spacing-0);
+
+  li {
+    margin-bottom: 0;
+  }
 }
 
 .gatsby-highlight {
@@ -458,4 +461,8 @@ a:focus {
   margin-left: .2em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  &:hover {
+    fill: currentColor;
+  }
 }
