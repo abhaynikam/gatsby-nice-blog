@@ -8,6 +8,7 @@ module.exports = {
     description: siteConfig.description,
     siteUrl: siteConfig.url,
     social: siteConfig.author.social,
+    disqusShortname: siteConfig.disqusShortname,
   },
   plugins: [
     {
