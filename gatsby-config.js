@@ -10,7 +10,7 @@ module.exports = {
     social: siteConfig.author.social,
     disqusShortname: siteConfig.disqusShortname,
   },
-  pathPrefix: "/gatsby-nice-blog/",
+  pathPrefix: "/", // TODO: Add path prefix as github repository name to deploy to github pages.
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
