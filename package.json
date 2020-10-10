@@ -1,11 +1,11 @@
 {
   "name": "gatsby-nice-blog",
   "private": true,
-  "description": "A nice starter blog post template built using Gatsby",
+  "description": "A nice starter blog post boilerplate template built using Gatsby",
   "version": "0.1.0",
   "author": "Abhay Nikam <nikma.abhay1@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/abhaynikam/gatsby-nice-blog/issues"
   },
   "dependencies": {
     "classnames": "^2.2.6",
@@ -39,9 +39,10 @@
     "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "prettier": "2.1.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/abhaynikam/gatsby-nice-blog/blob/main/README.md",
   "keywords": [
     "gatsby"
   ],
@@ -49,7 +50,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git@github.com:abhaynikam/gatsby-nice-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
@@ -58,6 +59,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   }
 }

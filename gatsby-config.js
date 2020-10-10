@@ -10,6 +10,7 @@ module.exports = {
     social: siteConfig.author.social,
     disqusShortname: siteConfig.disqusShortname,
   },
+  pathPrefix: "/abhaynikam",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,

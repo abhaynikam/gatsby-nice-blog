@@ -2,7 +2,7 @@
 
 module.exports = {
   url: `https://gatsby-starter-blog-demo.netlify.app/`,
-  description: `A nice starter blog post template built using Gatsby.`,
+  description: `A nice starter blog post boilerplate template built using Gatsby.`,
   pathPrefix: '/',
   title: `Nice Blogs`,
   disqusShortname: '',
