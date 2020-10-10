@@ -10,6 +10,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`;
   const { previous, next } = pageContext;
   const isPostTemplate = post.frontmatter.template === "post";
+  const isNextPostTemplate = next.node.frontmatter.template === "post";
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -18,9 +19,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         description={post.frontmatter.description || post.excerpt}
       />
       <article
-        className="blog-post"
         itemScope
-        itemType="http://schema.org/Article"
+        className="blog-post"
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
@@ -44,20 +44,22 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 padding: 0,
               }}
             >
-              <li>
+              <li className="blog-post-nav-prev">
                 {previous && (
                   <Link to={previous.node.fields.slug} rel="prev">
                     ← {previous.node.frontmatter.title}
                   </Link>
                 )}
               </li>
-              <li>
-                {next && (
-                  <Link to={next.node.fields.slug} rel="next">
-                    {next.node.frontmatter.title} →
-                  </Link>
-                )}
-              </li>
+              {isNextPostTemplate && (
+                <li className="blog-post-nav-next">
+                  {next && (
+                    <Link to={next.node.fields.slug} rel="next">
+                      {next.node.frontmatter.title} →
+                    </Link>
+                  )}
+                </li>
+              )}
             </ul>
           </nav>
           <hr />

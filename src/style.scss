@@ -356,13 +356,22 @@ a:focus {
 .blog-post-nav ul {
   margin: var(--spacing-0);
 
-  li {
+  li.blog-post-nav-prev {
     margin-bottom: 0;
+    width: 50%;
+    text-align: left;
+  }
+
+  li.blog-post-nav-next {
+    margin-bottom: 0;
+    width: 50%;
+    text-align: right;
   }
 }
 
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
+  font-size: 1rem !important;
 }
 
 /* Media queries */
@@ -438,6 +447,9 @@ a:focus {
     .title {
       width: 80%;
       text-align: left;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
     .date {
@@ -478,4 +490,10 @@ a:focus {
   &:hover {
     fill: currentColor;
   }
+}
+
+.current-page-info {
+  display: flex;
+  justify-content: flex-end;
+  font-size: var(--fontSize-0)
 }

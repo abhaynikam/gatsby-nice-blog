@@ -7,7 +7,7 @@ module.exports = {
   title: `Boring Blog`,
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 2,
+  postsPerPage: 15,
   googleAnalyticsId: 'UA-149507206-1',
   copyright: '© All rights reserved.',
   useKatex: false,

@@ -1,7 +1,6 @@
 ---
-title: How to Download or Use This Theme
-date: "2015-05-01"
-description: "Hello World"
+title: Markdown Cheatsheet Demo
+date: "2020-11-01"
 template: post
 ---
 

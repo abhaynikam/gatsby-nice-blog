@@ -17,7 +17,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
     prevPagePath,
     nextPagePath
   } = pageContext;
-  const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle;
+  const currentPageInfo = currentPage > 0 ? `Page ${currentPage}` : '';
 
   if (edges.length === 0) {
     return (
@@ -34,7 +34,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
   }
 
   return (
-    <Layout location={location} title={pageTitle}>
+    <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
       <ol className="blog-list">
         {edges.map(edge => {
@@ -50,6 +50,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
           )
         })}
       </ol>
+      <div className="current-page-info">{currentPageInfo}</div>
       <Pagination
         prevPagePath={prevPagePath}
         nextPagePath={nextPagePath}
