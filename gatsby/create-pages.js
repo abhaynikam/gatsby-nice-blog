@@ -7,6 +7,12 @@ const createPostsPages = require('./pagination/create-posts-pages.js');
 const createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
+  // 404
+  createPage({
+    path: '/404',
+    component: path.resolve('./src/templates/not-found-template.js')
+  });
+
   const result = await graphql(`
     {
       allMarkdownRemark(
