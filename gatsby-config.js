@@ -10,7 +10,7 @@ module.exports = {
     social: siteConfig.author.social,
     disqusShortname: siteConfig.disqusShortname,
   },
-  pathPrefix: "/",
+  pathPrefix: "/gatsby-nice-blog/",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
