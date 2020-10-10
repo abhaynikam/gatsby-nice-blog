@@ -1,6 +1,12 @@
-<h3 align="center">
+<h1 align="center">
   Gatsby Nice Blogs
-</h3>
+</h1>
+
+<p align="center">
+  <a href="https://github.com/abhaynikam/gatsby-nice-blog/blob/master/LICENSE.txt"><img alt="GitHub" src="https://img.shields.io/github/license/abhaynikam/gatsby-nice-blog?style=flat-square"></a>
+  <a href="https://nostalgic-liskov-e76c32.netlify.app/"><img alt="GitHub" src="https://img.shields.io/badge/-Demo-green?style=flat-square"></a>
+
+</p>
 
 ## 🚀 Quick start
 
@@ -80,10 +86,12 @@ Update the `--color-primary` color variable to the desired theme primary color.
 - Authorize the repository access.
 - Configure the custom domain on Netlify.
 
+Watch the [video](https://docs.netlify.com/site-deploys/create-deploys/#deploy-with-git) by Netlify team and learn deploying using Git.
+
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/abhaynikam/boring_generators. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/abhaynikam/gatsby-nice-blog/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/abhaynikam/gatsby-nice-blog. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/abhaynikam/gatsby-nice-blog/blob/master/CODE_OF_CONDUCT.md).
 
 ## License
 
