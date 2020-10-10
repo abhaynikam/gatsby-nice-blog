@@ -2,19 +2,14 @@
   Gatsby Nice Blogs
 </h3>
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
-
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the blog starter.
+    Use the Gatsby CLI to create a new site, specifying the nice blogs boilerplate template.
 
     ```shell
-    # create a new Gatsby site using the blog starter
-    gatsby new <site-name> https://github.com/gatsbyjs/gatsby-starter-blog
+    gatsby new <site-name> https://github.com/abhaynikam/gatsby-nice-blog
     ```
 
 1.  **Start developing.**
@@ -84,6 +79,15 @@ Update the `--color-primary` color variable to the desired theme primary color.
 - Login/Signup to the Netlify GitHub account.
 - Authorize the repository access.
 - Configure the custom domain on Netlify.
+
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/abhaynikam/boring_generators. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/abhaynikam/gatsby-nice-blog/blob/master/CODE_OF_CONDUCT.md).
+
+## License
+
+The boilerplate blog template is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Author
 [Abhay Nikam](https://www.abhaynikam.me/pages/about)
