@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "nice-blog-templates",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A nice blog template by Abhay Nikam",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Abhay Nikam <nikma.abhay1@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -35,8 +35,7 @@
     "react-helmet": "^5.2.1",
     "typeface-barlow": "^1.1.13",
     "typeface-merriweather": "0.0.72",
-    "typeface-montserrat": "0.0.75",
-    "typeface-raleway": "^1.1.13"
+    "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {
     "prettier": "2.1.2"
