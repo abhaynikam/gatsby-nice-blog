@@ -2,13 +2,13 @@
 
 module.exports = {
   url: `https://gatsby-starter-blog-demo.netlify.app/`,
-  description: `A nice gatsby blog template to write blogs.`,
+  description: `.`,
   pathPrefix: '/',
-  title: `Nice Blogs Template`,
+  title: `Nice Blogs`,
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 15,
-  googleAnalyticsId: 'UA-149507206-1',
+  googleAnalyticsId: '',
   useKatex: false,
   author: {
     name: `Abhay Nikam`,
