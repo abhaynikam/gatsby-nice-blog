@@ -1,6 +1,6 @@
 ---
 title: nesciunt iure omnis dolorem tempora et accusantium
-date: "2020-09-20"
+date: "2020-09-30"
 template: post
 ---
 
