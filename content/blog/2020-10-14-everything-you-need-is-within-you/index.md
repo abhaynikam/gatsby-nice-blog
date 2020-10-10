@@ -1,6 +1,6 @@
 ---
 title: Everything you need is within you.
-date: "2020-10-08"
+date: "2020-10-06"
 template: post
 ---
 

@@ -10,7 +10,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`;
   const { previous, next } = pageContext;
   const isPostTemplate = post.frontmatter.template === "post";
-  const isNextPostTemplate = next.node.frontmatter.template === "post";
+  const isNextPostTemplate = next && next.node.frontmatter.template === "post";
 
   return (
     <Layout location={location} title={siteTitle}>

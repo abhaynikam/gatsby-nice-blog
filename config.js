@@ -2,18 +2,17 @@
 
 module.exports = {
   url: `https://gatsby-starter-blog-demo.netlify.app/`,
-  description: `A starter blog demonstrating what Gatsby can do.`,
+  description: `A nice gatsby blog template to write blogs.`,
   pathPrefix: '/',
-  title: `Boring Blog`,
+  title: `Nice Blogs Template`,
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 15,
   googleAnalyticsId: 'UA-149507206-1',
-  copyright: '© All rights reserved.',
   useKatex: false,
   author: {
     name: `Abhay Nikam`,
-    summary: `who lives and works in San Francisco building useful things.`,
+    summary: `, Ruby on Rails and Frontend developer from Pune, India.`,
     social: {
       twitter: `abhaynikam13`,
       github: `abhaynikam`,
