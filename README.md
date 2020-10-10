@@ -11,8 +11,8 @@ Nice blogs is a simple minimal blog template boilerplate built using Gatsby. Kic
 
 Check the [live demo on netlify](https://nostalgic-liskov-e76c32.netlify.app/) or [live demo on GitHub pages](https://abhaynikam.github.io/gatsby-nice-blog/).
 
-![root](https://monosnap.com/file/gC31ZhTk8yrQtBd46PL85bB66W9fTM)
-![blog](https://monosnap.com/file/EPzoVURhFS5fWuQWLzuSc0h8ZAqpyt)
+![root](https://user-images.githubusercontent.com/7736232/95664178-0ea08200-0b63-11eb-988c-452b23c57074.png)
+![blog](https://user-images.githubusercontent.com/7736232/95664177-0a746480-0b63-11eb-9cbf-d542b828a6fb.png)
 
 ## Features
 - Pagniated minimalistic blog template.
