@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nice Blogs]]></title><description><![CDATA[A nice starter blog post boilerplate template built using Gatsby.]]></description><link>https://abhaynikam.github.io/gatsby-nice-blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 10 Oct 2020 18:39:20 GMT</lastBuildDate><item><title><![CDATA[About me]]></title><description><![CDATA[Aenean suscipit metus nec efficitur convallis. Cras a arcu eu augue imperdiet imperdiet convallis nec ipsum. Cras facilisis, nisi nec porta…]]></description><link>https://abhaynikam.github.io/gatsby-nice-blog/pages/about/</link><guid isPermaLink="false">https://abhaynikam.github.io/gatsby-nice-blog/pages/about/</guid><content:encoded>&lt;p&gt;Aenean suscipit metus nec efficitur convallis. Cras a arcu eu augue imperdiet imperdiet convallis nec ipsum. Cras facilisis, nisi nec porta molestie, quam mauris dapibus lacus, vitae vestibulum nunc sem id libero. Mauris non leo sed purus luctus interdum. Sed maximus finibus magna, tempus egestas risus rutrum eu. Fusce sed ante nunc. Aliquam erat volutpat. Suspendisse sollicitudin ac urna id convallis. Maecenas ac augue nibh.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nice Blogs]]></title><description><![CDATA[A nice starter blog post boilerplate template built using Gatsby.]]></description><link>https://abhaynikam.github.io/gatsby-nice-blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 10 Oct 2020 18:48:16 GMT</lastBuildDate><item><title><![CDATA[About me]]></title><description><![CDATA[Aenean suscipit metus nec efficitur convallis. Cras a arcu eu augue imperdiet imperdiet convallis nec ipsum. Cras facilisis, nisi nec porta…]]></description><link>https://abhaynikam.github.io/gatsby-nice-blog/pages/about/</link><guid isPermaLink="false">https://abhaynikam.github.io/gatsby-nice-blog/pages/about/</guid><content:encoded>&lt;p&gt;Aenean suscipit metus nec efficitur convallis. Cras a arcu eu augue imperdiet imperdiet convallis nec ipsum. Cras facilisis, nisi nec porta molestie, quam mauris dapibus lacus, vitae vestibulum nunc sem id libero. Mauris non leo sed purus luctus interdum. Sed maximus finibus magna, tempus egestas risus rutrum eu. Fusce sed ante nunc. Aliquam erat volutpat. Suspendisse sollicitudin ac urna id convallis. Maecenas ac augue nibh.&lt;/p&gt;
 &lt;p&gt;Pellentesque sit amet lorem felis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas eu massa faucibus, posuere diam eget, dignissim erat. Suspendisse sit amet ultrices lectus. Maecenas nec nisl aliquet, rhoncus ligula sed, varius nibh. Vivamus pharetra lacus quis risus finibus, vitae viverra lectus tincidunt. Duis leo quam, bibendum vitae arcu nec, mollis imperdiet urna. Pellentesque at orci placerat augue congue blandit. Duis eget quam dictum, aliquam augue eu, placerat dolor. Vestibulum cursus odio tortor, ac ultricies ex laoreet a. Nulla facilisi.&lt;/p&gt;
 &lt;p&gt;Vivamus pellentesque sollicitudin nisi sed fringilla. Etiam ut mi vitae purus sollicitudin dictum et at ipsum. Curabitur tincidunt vehicula mi, vitae vestibulum purus lacinia non. Ut placerat, urna lacinia egestas elementum, orci velit placerat elit, in consectetur augue eros sed dui. Mauris at sem odio. Duis pulvinar neque ac felis fringilla tristique.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Keynote Interview with David Heinemeier Hansson]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-11-02-keynote-dhh/</link><guid isPermaLink="false">https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-11-02-keynote-dhh/</guid><pubDate>Mon, 02 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
@@ -120,7 +120,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
+    href=&quot;/gatsby-nice-blog/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -133,13 +133,13 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Chinese Salty Egg&quot;
         title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
-        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
-/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
-/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
-/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
-/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
-/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
+        src=&quot;/gatsby-nice-blog/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
+        srcset=&quot;/gatsby-nice-blog/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
+/gatsby-nice-blog/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
+/gatsby-nice-blog/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
+/gatsby-nice-blog/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
+/gatsby-nice-blog/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
+/gatsby-nice-blog/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -494,7 +494,7 @@ application namespace.&lt;/li&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3d0bda57e018995c6cf378e1076abb89/e8277/xps.jpg&quot;
+    href=&quot;/gatsby-nice-blog/static/3d0bda57e018995c6cf378e1076abb89/e8277/xps.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -507,13 +507,13 @@ application namespace.&lt;/li&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Chinese Salty Egg&quot;
         title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/static/3d0bda57e018995c6cf378e1076abb89/828fb/xps.jpg&quot;
-        srcset=&quot;/static/3d0bda57e018995c6cf378e1076abb89/ff44c/xps.jpg 158w,
-/static/3d0bda57e018995c6cf378e1076abb89/a6688/xps.jpg 315w,
-/static/3d0bda57e018995c6cf378e1076abb89/828fb/xps.jpg 630w,
-/static/3d0bda57e018995c6cf378e1076abb89/0ede0/xps.jpg 945w,
-/static/3d0bda57e018995c6cf378e1076abb89/3ac88/xps.jpg 1260w,
-/static/3d0bda57e018995c6cf378e1076abb89/e8277/xps.jpg 6016w&quot;
+        src=&quot;/gatsby-nice-blog/static/3d0bda57e018995c6cf378e1076abb89/828fb/xps.jpg&quot;
+        srcset=&quot;/gatsby-nice-blog/static/3d0bda57e018995c6cf378e1076abb89/ff44c/xps.jpg 158w,
+/gatsby-nice-blog/static/3d0bda57e018995c6cf378e1076abb89/a6688/xps.jpg 315w,
+/gatsby-nice-blog/static/3d0bda57e018995c6cf378e1076abb89/828fb/xps.jpg 630w,
+/gatsby-nice-blog/static/3d0bda57e018995c6cf378e1076abb89/0ede0/xps.jpg 945w,
+/gatsby-nice-blog/static/3d0bda57e018995c6cf378e1076abb89/3ac88/xps.jpg 1260w,
+/gatsby-nice-blog/static/3d0bda57e018995c6cf378e1076abb89/e8277/xps.jpg 6016w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -543,7 +543,7 @@ egg yolk will be less rich.”?
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3a8c0d8be7fe574d48f58646c2915662/6fe86/jess-bailey.jpg&quot;
+    href=&quot;/gatsby-nice-blog/static/3a8c0d8be7fe574d48f58646c2915662/6fe86/jess-bailey.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -556,13 +556,13 @@ egg yolk will be less rich.”?
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Chinese Salty Egg&quot;
         title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/static/3a8c0d8be7fe574d48f58646c2915662/828fb/jess-bailey.jpg&quot;
-        srcset=&quot;/static/3a8c0d8be7fe574d48f58646c2915662/ff44c/jess-bailey.jpg 158w,
-/static/3a8c0d8be7fe574d48f58646c2915662/a6688/jess-bailey.jpg 315w,
-/static/3a8c0d8be7fe574d48f58646c2915662/828fb/jess-bailey.jpg 630w,
-/static/3a8c0d8be7fe574d48f58646c2915662/0ede0/jess-bailey.jpg 945w,
-/static/3a8c0d8be7fe574d48f58646c2915662/3ac88/jess-bailey.jpg 1260w,
-/static/3a8c0d8be7fe574d48f58646c2915662/6fe86/jess-bailey.jpg 4518w&quot;
+        src=&quot;/gatsby-nice-blog/static/3a8c0d8be7fe574d48f58646c2915662/828fb/jess-bailey.jpg&quot;
+        srcset=&quot;/gatsby-nice-blog/static/3a8c0d8be7fe574d48f58646c2915662/ff44c/jess-bailey.jpg 158w,
+/gatsby-nice-blog/static/3a8c0d8be7fe574d48f58646c2915662/a6688/jess-bailey.jpg 315w,
+/gatsby-nice-blog/static/3a8c0d8be7fe574d48f58646c2915662/828fb/jess-bailey.jpg 630w,
+/gatsby-nice-blog/static/3a8c0d8be7fe574d48f58646c2915662/0ede0/jess-bailey.jpg 945w,
+/gatsby-nice-blog/static/3a8c0d8be7fe574d48f58646c2915662/3ac88/jess-bailey.jpg 1260w,
+/gatsby-nice-blog/static/3a8c0d8be7fe574d48f58646c2915662/6fe86/jess-bailey.jpg 4518w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;

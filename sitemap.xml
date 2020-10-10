@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-11-02-keynote-dhh/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-11-01-markdown-cheatsheet-demo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-10-30-testing-rails-generator/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-10-22-aaron-patterson-variety-show/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-10-20-technically-a-talk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-10-18-harry-potter-fans/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-10-16-draco-malfoy-only-31-mins/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-10-12-space-a-mistake/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-10-08-where-your-focus-goes-your-energy-flows/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-10-14-everything-you-need-is-within-you/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-09-30-magnam-facilis-autem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-09-25-optio-molestias-id/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-09-20-nesciunt-quas-odio/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-09-15-eum-et-est-occaecati/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-09-10-qui-est-esse/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-09-05-ea-molestias-quasi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/blog/2020-09-01-sunt-aut-facere-repellat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/using-typescript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-11-02-keynote-dhh/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-11-01-markdown-cheatsheet-demo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-10-30-testing-rails-generator/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-10-22-aaron-patterson-variety-show/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-10-20-technically-a-talk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-10-18-harry-potter-fans/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-10-16-draco-malfoy-only-31-mins/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-10-12-space-a-mistake/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-10-08-where-your-focus-goes-your-energy-flows/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-10-14-everything-you-need-is-within-you/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-09-30-magnam-facilis-autem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-09-25-optio-molestias-id/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-09-20-nesciunt-quas-odio/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-09-15-eum-et-est-occaecati/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-09-10-qui-est-esse/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-09-05-ea-molestias-quasi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/blog/2020-09-01-sunt-aut-facere-repellat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://abhaynikam.github.io/gatsby-nice-blog/gatsby-nice-blog/using-typescript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
