@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nice Blogs]]></title><description><![CDATA[A nice starter blog post boilerplate template built using Gatsby.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 10 Oct 2020 18:31:01 GMT</lastBuildDate><item><title><![CDATA[About me]]></title><description><![CDATA[Aenean suscipit metus nec efficitur convallis. Cras a arcu eu augue imperdiet imperdiet convallis nec ipsum. Cras facilisis, nisi nec porta…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/pages/about/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/pages/about/</guid><content:encoded>&lt;p&gt;Aenean suscipit metus nec efficitur convallis. Cras a arcu eu augue imperdiet imperdiet convallis nec ipsum. Cras facilisis, nisi nec porta molestie, quam mauris dapibus lacus, vitae vestibulum nunc sem id libero. Mauris non leo sed purus luctus interdum. Sed maximus finibus magna, tempus egestas risus rutrum eu. Fusce sed ante nunc. Aliquam erat volutpat. Suspendisse sollicitudin ac urna id convallis. Maecenas ac augue nibh.&lt;/p&gt;
+&lt;p&gt;Pellentesque sit amet lorem felis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas eu massa faucibus, posuere diam eget, dignissim erat. Suspendisse sit amet ultrices lectus. Maecenas nec nisl aliquet, rhoncus ligula sed, varius nibh. Vivamus pharetra lacus quis risus finibus, vitae viverra lectus tincidunt. Duis leo quam, bibendum vitae arcu nec, mollis imperdiet urna. Pellentesque at orci placerat augue congue blandit. Duis eget quam dictum, aliquam augue eu, placerat dolor. Vestibulum cursus odio tortor, ac ultricies ex laoreet a. Nulla facilisi.&lt;/p&gt;
+&lt;p&gt;Vivamus pellentesque sollicitudin nisi sed fringilla. Etiam ut mi vitae purus sollicitudin dictum et at ipsum. Curabitur tincidunt vehicula mi, vitae vestibulum purus lacinia non. Ut placerat, urna lacinia egestas elementum, orci velit placerat elit, in consectetur augue eros sed dui. Mauris at sem odio. Duis pulvinar neque ac felis fringilla tristique.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Keynote Interview with David Heinemeier Hansson]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-11-02-keynote-dhh/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-11-02-keynote-dhh/</guid><pubDate>Mon, 02 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+right at the coast of the Semantics, a large language ocean. A small river named
+Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;ruby&quot;&gt;&lt;pre class=&quot;language-ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Orange&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;initialize&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;@juice_available&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;100&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;squeeze&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;@juice_available&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
+Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
+didn’t listen. She packed her seven versalia, put her initial into the belt and
+made herself on the way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This however showed weasel&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Well uncritical so misled&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;this is very interesting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
+view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
+&lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
+Lane. Pityful a rhetoric question ran over her cheek, then she continued her
+way. On her way she met a copy.&lt;/p&gt;
+&lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
+&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
+few insidious Copy Writers ambushed her, made her drunk with
+&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
+they abused her for their projects again and again. And if she hasn’t been
+rewritten, then they are still using her.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It is a paradisematic country, in which roasted parts of sentences fly into your
+mouth. Even the all-powerful Pointing has no control about the blind texts it is
+an almost unorthographic life One day however a small line of blind text by the
+name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
+&lt;h3&gt;According a funnily until pre-set or arrogant well cheerful&lt;/h3&gt;
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
+Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
+didn’t listen. She packed her seven versalia, put her initial into the belt and
+made herself on the way.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;So baboon this&lt;/li&gt;
+&lt;li&gt;Mounted militant weasel gregariously admonishingly straightly hey&lt;/li&gt;
+&lt;li&gt;Dear foresaw hungry and much some overhung&lt;/li&gt;
+&lt;li&gt;Rash opossum less because less some amid besides yikes jeepers frenetic
+impassive fruitlessly shut&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view
+back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
+Village and the subline of her own road, the Line Lane. Pityful a rhetoric
+question ran over her cheek, then she continued her way. On her way she met a
+copy.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
+been rewritten a thousand times and everything that was left from its origin
+would be the word “and” and the Little Blind Text should turn around and
+return to its own, safe country.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
+few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
+and dragged her into their agency, where they abused her for their projects
+again and again. And if she hasn’t been rewritten, then they are still using
+her. Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts.&lt;/p&gt;
+&lt;h4&gt;Silent delightfully including because before one up barring chameleon&lt;/h4&gt;
+&lt;p&gt;Separated they live in Bookmarksgrove right at the coast of the Semantics, a
+large language ocean. A small river named Duden flows by their place and
+supplies it with the necessary regelialia. It is a paradisematic country, in
+which roasted parts of sentences fly into your mouth.&lt;/p&gt;
+&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an
+almost unorthographic life One day however a small line of blind text by the
+name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
+advised her not to do so, because there were thousands of bad Commas, wild
+Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
+&lt;h5&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h5&gt;
+&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on
+the way. When she reached the first hills of the Italic Mountains, she had a
+last view back on the skyline of her hometown Bookmarksgrove, the headline of
+Alphabet Village and the subline of her own road, the Line Lane. Pityful a
+rhetoric question ran over her cheek, then she continued her way. On her way she
+met a copy.&lt;/p&gt;
+&lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
+&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
+been rewritten a thousand times and everything that was left from its origin
+would be the word “and” and the Little Blind Text should turn around and return
+to its own, safe country. But nothing the copy said could convince her and so it
+didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
+with Longe and Parole and dragged her into their agency, where they abused her
+for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Markdown Cheatsheet Demo]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-11-01-markdown-cheatsheet-demo/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-11-01-markdown-cheatsheet-demo/</guid><pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
+&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
+eggs in brine, or packing each egg in damp, salted charcoal. In Asian
+supermarkets, these eggs are sometimes sold covered in a thick layer of salted
+charcoal paste. The eggs may also be sold with the salted paste removed,
+wrapped in plastic, and vacuum packed. From the salt curing process, the
+salted duck eggs have a briny aroma, a gelatin-like egg white and a
+firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/abhaynikam/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chinese Salty Egg&quot;
+        title=&quot;Chinese Salty Egg&quot;
+        src=&quot;/abhaynikam/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
+        srcset=&quot;/abhaynikam/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
+/abhaynikam/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
+/abhaynikam/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
+/abhaynikam/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
+/abhaynikam/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
+/abhaynikam/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;You can also write code blocks here!&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; saltyDuckEgg &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;chinese preserved food product&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;Number&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Title&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;Year&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;1&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Harry Potter and the Philosopher’s Stone&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;2001&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;2&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Harry Potter and the Chamber of Secrets&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;2002&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;3&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Harry Potter and the Prisoner of Azkaban&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;2004&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md&quot;&gt;View raw (TEST.md)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is a paragraph.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is a paragraph.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Header 1
+========
+
+Header 2
+--------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;h3&gt;Header 3&lt;/h3&gt;
+&lt;h4&gt;Header 4&lt;/h4&gt;
+&lt;h5&gt;Header 5&lt;/h5&gt;
+&lt;h6&gt;Header 6&lt;/h6&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;h3&gt;Header 3&lt;/h3&gt;
+&lt;h4&gt;Header 4&lt;/h4&gt;
+&lt;h5&gt;Header 5&lt;/h5&gt;
+&lt;h6&gt;Header 6&lt;/h6&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1 #
+## Header 2 ##
+### Header 3 ###
+#### Header 4 ####
+##### Header 5 #####
+###### Header 6 ######&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;gt; Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;This is a header.&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;This is the first list item.&lt;/li&gt;
+&lt;li&gt;This is the second list item.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here’s some example code:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;gt; ## This is a header.
+&amp;gt; 1. This is the first list item.
+&amp;gt; 2. This is the second list item.
+&amp;gt;
+&amp;gt; Here&amp;#39;s some example code:
+&amp;gt;
+&amp;gt;     Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue
+
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Red
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Green
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Blue
+
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;- &lt;span class=&quot;token code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;Buy flour and salt&lt;/li&gt;
+&lt;li&gt;Mix together with water&lt;/li&gt;
+&lt;li&gt;Bake&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Buy flour and salt
+&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Mix together with water
+&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Bake&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;1. &lt;span class=&quot;token code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
+&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Paragraph:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;!-- --&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Paragraph:
+
+    Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Example&quot;&gt;an example&lt;/a&gt; link.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://example.com&quot;&gt;This link&lt;/a&gt; has no title attr.&lt;/p&gt;
+&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Optional Title&quot;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is [an example](http://example.com &amp;quot;Example&amp;quot;) link.
+
+[This link](http://example.com) has no title attr.
+
+This is [an example] [id] reference-style link.
+
+[id]: http://example.com &amp;quot;Optional Title&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;single asterisks&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;single underscores&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;double asterisks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;double underscores&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This paragraph has some &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt; in it.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This paragraph has some `code` in it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://placehold.it/200x50&quot; alt=&quot;Alt Text&quot; title=&quot;Image Title&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://placehold.it/200x50 &amp;quot;Image Title&amp;quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Testing Rails generators with ease.]]></title><description><![CDATA[Rails generator is a tool provided by the Rails
+framework to reduce the human effort of doing
+redundant manual things by automating the…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-30-testing-rails-generator/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-30-testing-rails-generator/</guid><pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Rails generator is a tool provided by the Rails
+framework to reduce the human effort of doing
+redundant manual things by automating the workflow.&lt;/p&gt;
+&lt;p&gt;We use Rails generator all the time. Like, when you
+run &lt;code class=&quot;language-text&quot;&gt;rails new &amp;lt;project_name&amp;gt;&lt;/code&gt; it behind the scenes
+use Rails generator. Similarly, when you install a
+new gem, some of the gems provide the generator to
+make installation and configuring the gem easier.&lt;/p&gt;
+&lt;p&gt;Refer: &lt;a href=&quot;https://guides.rubyonrails.org/generators.html&quot;&gt;Creating and Customizing Rails Generators &amp;#x26; Templates&lt;/a&gt;
+guide to create generators.&lt;/p&gt;
+&lt;h4&gt;Problem statement &amp;#x26; motivation&lt;/h4&gt;
+&lt;p&gt;To install Action Text into the application,
+you run &lt;code class=&quot;language-text&quot;&gt;rails action_text:install&lt;/code&gt;. The installer
+was recently moved from Rails template to a generator.
+After moving to the generator we encountered some
+issues in the generator like:
+&lt;a href=&quot;https://github.com/rails/rails/issues/39128&quot;&gt;#39128&lt;/a&gt;,
+&lt;a href=&quot;https://github.com/rails/rails/pull/37823&quot;&gt;#37823&lt;/a&gt;,
+&lt;a href=&quot;https://github.com/rails/rails/issues/40184&quot;&gt;#40184&lt;/a&gt;
+which weren’t caught in the early stage of development.&lt;/p&gt;
+&lt;p&gt;This was my motivation for looking into writing test cases
+for Rails generator. PR: &lt;a href=&quot;https://github.com/rails/rails/pull/39317&quot;&gt;#39317&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Adding test cases for generators which normally
+only creates a new file in the system are very easy.
+For example, the migration generator.
+Migration generator adds a file called &lt;code class=&quot;language-text&quot;&gt;db/&amp;lt;timestamp&amp;gt;_name.rb&lt;/code&gt;
+and test cases would assert the generation of the file.
+Writing test cases for generators which configures
+files into a Rails application was a bit of challenge
+until we explore that area.&lt;/p&gt;
+&lt;p&gt;Let learn it with an example here. Let assume we are writing
+a test case for a generator that adds Bootstrap in the application.
+The generator would look something like:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;ruby&quot;&gt;&lt;pre class=&quot;language-ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;Bootstrap&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;Install&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;InstallGenerator&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;Rails&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;Generators&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;Base&lt;/span&gt;
+      desc &lt;span class=&quot;token string&quot;&gt;&quot;Adds Bootstrap to the application&quot;&lt;/span&gt;
+      source_root &lt;span class=&quot;token builtin&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;expand_path&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;templates&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; __dir__&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+      &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;add_bootstrap_package&lt;/span&gt;&lt;/span&gt;
+        say &lt;span class=&quot;token string&quot;&gt;&quot;Adding bootstrap packages&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token symbol&quot;&gt;:green&lt;/span&gt;
+        run &lt;span class=&quot;token string&quot;&gt;&quot;yarn add bootstrap jquery popper.js&quot;&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+
+      &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;import_bootstrap_stylesheet_in_application_scss&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+
+      &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;import_bootstrap_javascript_in_application_js&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+
+      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;To add Bootstrap in the application you require
+following files and these needs to be present when
+Bootstrap generator runs in the test cases.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;package.json&lt;/code&gt; to install NPM package.&lt;/li&gt;
+&lt;li&gt;Webpacker configured.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;application.js&lt;/code&gt; bundled via webpack.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;application.scss&lt;/code&gt; bundled via webpack.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;ruby&quot;&gt;&lt;pre class=&quot;language-ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;test_helper&quot;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;BootstrapInstallGeneratorTest&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;Rails&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;Generators&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;TestCase&lt;/span&gt;
+  destination &lt;span class=&quot;token builtin&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;expand_path&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;../tmp&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; __dir__&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  setup &lt;span class=&quot;token symbol&quot;&gt;:prepare_destination&lt;/span&gt;
+  tests &lt;span class=&quot;token constant&quot;&gt;Bootstrap&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;Install&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;InstallGenerator&lt;/span&gt;
+
+  &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;test_should_add_bootstrap_npm_package&lt;/span&gt;&lt;/span&gt;
+    run_generator
+
+    assert_file &lt;span class=&quot;token string&quot;&gt;&quot;package.json&quot;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt;content&lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt;
+      assert_match&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token regex&quot;&gt;/popper/&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; content&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+      assert_match&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token regex&quot;&gt;/bootstrap/&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; content&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+      assert_match&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token regex&quot;&gt;/jquery/&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; content&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Running the above test cases will fail with
+following error:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;ruby&quot;&gt;&lt;pre class=&quot;language-ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;&lt;span class=&quot;token constant&quot;&gt;Expected&lt;/span&gt; file &lt;span class=&quot;token string&quot;&gt;&quot;package.json&quot;&lt;/span&gt; to exist&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; but does &lt;span class=&quot;token keyword&quot;&gt;not&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;To tackle this problem we will create a
+simple Rails application on setup and run
+the generator within the dummy application.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add a simple Rails application in the template:
+&lt;code class=&quot;language-text&quot;&gt;tmp/templates/app_template&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Add a generator helper that would build the application
+on setup. The helper has &lt;code class=&quot;language-text&quot;&gt;build_app&lt;/code&gt; helper method
+which copies the Rails template app in the temp directory.
+The generator also defines some path helper methods to
+easily find the application, app_template.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;ruby&quot;&gt;&lt;pre class=&quot;language-ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;&lt;span class=&quot;token constant&quot;&gt;ROOT_PATH&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;expand_path&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;../&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; __dir__&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;GeneratorHelper&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;app_template_path&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token builtin&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;join &lt;span class=&quot;token constant&quot;&gt;ROOT_PATH&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;tmp/templates/app_template&quot;&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+
+  &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;tmp_path&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;args&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;@tmp_path&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;||&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;realpath&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token builtin&quot;&gt;Dir&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;mktmpdir&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;nil&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;join&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;ROOT_PATH&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;tmp&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token builtin&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;join&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;@tmp_path&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;args&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+
+  &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;app_path&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;args&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    path &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; tmp_path&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;%w[app]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; args&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; block_given&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;yield&lt;/span&gt; path
+    &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt;
+      path
+    &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+
+  &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;build_app&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token constant&quot;&gt;FileUtils&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;rm_rf&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;app_path&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token constant&quot;&gt;FileUtils&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;cp_r&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;app_template_path&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; app_path&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+
+  &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;teardown_app&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token constant&quot;&gt;FileUtils&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;rm_rf&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;tmp_path&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Now the last thing to do is update the test cases
+to setup the application and run generator within the
+application namespace.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;ruby&quot;&gt;&lt;pre class=&quot;language-ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;test_helper&quot;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;BootstrapInstallGeneratorTest&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;Rails&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;Generators&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;TestCase&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;GeneratorHelper&lt;/span&gt;
+
+  tests &lt;span class=&quot;token constant&quot;&gt;Bootstrap&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;Install&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;InstallGenerator&lt;/span&gt;
+  setup &lt;span class=&quot;token symbol&quot;&gt;:build_app&lt;/span&gt;
+  teardown &lt;span class=&quot;token symbol&quot;&gt;:teardown_app&lt;/span&gt;
+
+  &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;test_should_add_bootstrap_npm_package&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token builtin&quot;&gt;Dir&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;chdir&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;app_path&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;do&lt;/span&gt;
+      run_generator
+
+      assert_file &lt;span class=&quot;token string&quot;&gt;&quot;package.json&quot;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt;content&lt;span class=&quot;token operator&quot;&gt;|&lt;/span&gt;
+        assert_match&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token regex&quot;&gt;/popper/&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; content&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        assert_match&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token regex&quot;&gt;/bootstrap/&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; content&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        assert_match&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token regex&quot;&gt;/jquery/&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; content&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Voila. The test cases for Bootstrap generator should be passing now.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Happy Coding!!&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Aaron Patterson's Variety Show!]]></title><description><![CDATA[Aaron is on the Ruby core team, the Rails core team, and the team that takes care of his cat, Gorby puff. During the day he works for a…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-22-aaron-patterson-variety-show/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-22-aaron-patterson-variety-show/</guid><pubDate>Thu, 22 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Aaron is on the Ruby core team, the Rails core team, and the team that takes care of his cat, Gorby puff. During the day he works for a small technology company. Someday he will find the perfect safety gear to wear while extreme programming.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;ruby&quot;&gt;&lt;pre class=&quot;language-ruby&quot;&gt;&lt;code class=&quot;language-ruby&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Orange&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;initialize&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;@juice_available&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;100&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+
+  &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token method-definition&quot;&gt;&lt;span class=&quot;token function&quot;&gt;squeeze&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;@juice_available&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Technically a talk]]></title><description><![CDATA[Peer deep into Rails’ database handling and you may find the code overly complex, hard to follow, and full of technical debt. On the surface…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-20-technically-a-talk/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-20-technically-a-talk/</guid><pubDate>Tue, 20 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Peer deep into Rails’ database handling and you may find the code overly complex, hard to follow, and full of technical debt. On the surface you’re right - it is complex, but that complexity represents the strong foundation that keeps your applications simple and focused on your product code. In this talk we’ll look at how to use multiple databases, the beauty (and horror) of Rails connection management, and why we built this feature for you.&lt;/p&gt;
+&lt;p&gt;Morbi eu elit eget quam suscipit finibus. Praesent condimentum congue justo vel auctor. Donec quis arcu est. Aenean posuere mi eros, at egestas odio aliquet sit amet. Sed quis libero suscipit, accumsan lorem vel, placerat augue. Duis vel condimentum nulla. Aenean eget metus et nisl vulputate vehicula. Cras ac consectetur diam, vel lacinia enim.&lt;/p&gt;
+&lt;p&gt;Donec sed purus vehicula, posuere arcu ut, ornare purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In placerat nisi ante, tempor aliquet mi porta sed. Morbi vehicula egestas sem, in aliquet leo tristique non. Praesent venenatis nisi vulputate turpis rutrum, sed scelerisque dui aliquam. Cras feugiat nunc quis odio suscipit ullamcorper. Vestibulum condimentum tincidunt commodo. Mauris vestibulum suscipit pellentesque. Duis ut lacus et sapien suscipit consectetur vel a sapien. Suspendisse ullamcorper felis arcu, sed porttitor ligula pulvinar vel. Maecenas porta lobortis ipsum, in luctus nulla.&lt;/p&gt;
+&lt;p&gt;Nunc vestibulum tortor massa, sit amet aliquet justo bibendum eu. Vestibulum bibendum aliquam metus rutrum congue. Suspendisse dignissim tempus convallis. Pellentesque cursus, leo a fringilla dictum, purus justo finibus dolor, nec vulputate est tortor non est. Donec id tempor sapien. Nam sed egestas est. Praesent lacinia pharetra nisl, id porta tortor pharetra in. Proin magna diam, blandit a porta et, pretium ac nisl. Sed non ultricies mauris. Nulla placerat mattis lorem, quis maximus neque posuere ut. Cras pretium est eu pharetra faucibus.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Harry Potter Fans Have Some Thoughts After Learning How Much Screen Time Draco Malfoy Actually Gets]]></title><description><![CDATA[Nunc cursus dolor ut ipsum porttitor pretium. Sed posuere, eros sodales finibus varius, velit urna porttitor turpis, vel ultricies nibh…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-18-harry-potter-fans/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-18-harry-potter-fans/</guid><pubDate>Sun, 18 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Nunc cursus dolor ut ipsum porttitor pretium. Sed posuere, eros sodales finibus varius, velit urna porttitor turpis, vel ultricies nibh ipsum vel neque. Duis maximus ligula sed est euismod molestie. Nullam id feugiat dui. In interdum cursus ligula, ac fermentum eros fringilla ac. Sed mollis turpis eu urna venenatis lacinia. Sed vel diam turpis. Morbi ut turpis vel tellus dapibus pellentesque. Sed sed tellus risus. Aenean neque lorem, tristique at magna in, porttitor porta turpis.&lt;/p&gt;
+&lt;p&gt;Praesent imperdiet fringilla nisl a efficitur. Proin tincidunt dictum fringilla. Fusce sed tempus eros. Donec id orci ac odio scelerisque lacinia in ac magna. Mauris gravida nisl sed metus consectetur tristique. Aliquam suscipit justo suscipit lorem fringilla suscipit et non leo. Aliquam quis risus finibus, dapibus sem vitae, semper metus. Aliquam aliquet, sapien in ornare luctus, ex nibh luctus eros, sodales imperdiet dui arcu eget felis. Suspendisse rhoncus ipsum congue nisi iaculis, id congue metus placerat. Sed vel feugiat ante, quis accumsan arcu. Vivamus tincidunt scelerisque justo.&lt;/p&gt;
+&lt;p&gt;Ut tincidunt scelerisque massa at sagittis. Aliquam sed tempor mi. Vestibulum placerat enim eu magna euismod cursus nec et elit. Ut hendrerit vitae ligula vitae porttitor. Morbi tincidunt libero et tellus commodo convallis. Donec dignissim quam metus, sed ornare risus mattis eu. Curabitur suscipit lacus et mi accumsan bibendum.&lt;/p&gt;
+&lt;p&gt;Aenean velit odio, iaculis ut mattis sed, venenatis eu nulla. Nullam cursus, metus non dignissim posuere, libero lectus semper justo, ac interdum nunc odio at felis. Nam interdum tincidunt nulla. Morbi pellentesque in nunc a vehicula. Maecenas sodales, sapien sit amet posuere cursus, lectus eros aliquet arcu, eu rutrum ipsum nulla aliquet turpis. Nulla mi risus, finibus quis metus ac, egestas rutrum nisi. Duis bibendum leo sit amet mi finibus, id suscipit dui fermentum. Nullam vehicula elit quis sem tincidunt laoreet. Sed maximus urna erat, ac varius ligula blandit sed. Integer a magna sed est scelerisque aliquam ut eget eros. Mauris fermentum tempor dignissim. Praesent molestie nibh est, id feugiat ipsum interdum vel. Nam ut tellus a tortor ornare commodo. Sed iaculis massa faucibus sem pharetra luctus. Quisque tempus tortor nulla, at condimentum risus pulvinar vel. Vivamus finibus et arcu et pharetra.&lt;/p&gt;
+&lt;p&gt;Pellentesque nisl arcu, ornare ac tincidunt quis, mollis ut risus. Aliquam molestie fermentum eleifend. Maecenas mollis dolor at tristique iaculis. Sed iaculis dolor at orci accumsan, ac dignissim turpis fringilla. Vestibulum eget augue est. Nam convallis mauris eros, faucibus placerat odio consequat id. Morbi a dolor ut est facilisis pellentesque. Aenean finibus libero ac massa consectetur, ut blandit libero hendrerit. Phasellus pretium urna id nisi pulvinar porttitor.&lt;/p&gt;
+&lt;p&gt;Morbi eu elit eget quam suscipit finibus. Praesent condimentum congue justo vel auctor. Donec quis arcu est. Aenean posuere mi eros, at egestas odio aliquet sit amet. Sed quis libero suscipit, accumsan lorem vel, placerat augue. Duis vel condimentum nulla. Aenean eget metus et nisl vulputate vehicula. Cras ac consectetur diam, vel lacinia enim.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/abhaynikam/static/3d0bda57e018995c6cf378e1076abb89/e8277/xps.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAG1uXfDyMr/xAAZEAADAQEBAAAAAAAAAAAAAAABAgMAIRH/2gAIAQEAAQUCWq4HpYHLXqnyZtv/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGI/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8Bqv/EABsQAAIBBQAAAAAAAAAAAAAAAAARAgESMTJB/9oACAEBAAY/Aox6MyNULkan/8QAHBAAAgICAwAAAAAAAAAAAAAAAREAITFBUWGR/9oACAEBAAE/IQ2mhcF1ucoIzUI1pKBDs05bh7P/2gAMAwEAAgADAAAAEKvP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QpT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/EA//xAAdEAEBAAIBBQAAAAAAAAAAAAABEQAhcTFBUYGR/9oACAEBAAE/ED3h6JePty89Ub4LcTFBIhG+PeM2pVMU9LSIJcU0I7B0Z//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chinese Salty Egg&quot;
+        title=&quot;Chinese Salty Egg&quot;
+        src=&quot;/abhaynikam/static/3d0bda57e018995c6cf378e1076abb89/828fb/xps.jpg&quot;
+        srcset=&quot;/abhaynikam/static/3d0bda57e018995c6cf378e1076abb89/ff44c/xps.jpg 158w,
+/abhaynikam/static/3d0bda57e018995c6cf378e1076abb89/a6688/xps.jpg 315w,
+/abhaynikam/static/3d0bda57e018995c6cf378e1076abb89/828fb/xps.jpg 630w,
+/abhaynikam/static/3d0bda57e018995c6cf378e1076abb89/0ede0/xps.jpg 945w,
+/abhaynikam/static/3d0bda57e018995c6cf378e1076abb89/3ac88/xps.jpg 1260w,
+/abhaynikam/static/3d0bda57e018995c6cf378e1076abb89/e8277/xps.jpg 6016w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Donec sed purus vehicula, posuere arcu ut, ornare purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In placerat nisi ante, tempor aliquet mi porta sed. Morbi vehicula egestas sem, in aliquet leo tristique non. Praesent venenatis nisi vulputate turpis rutrum, sed scelerisque dui aliquam. Cras feugiat nunc quis odio suscipit ullamcorper. Vestibulum condimentum tincidunt commodo. Mauris vestibulum suscipit pellentesque. Duis ut lacus et sapien suscipit consectetur vel a sapien. Suspendisse ullamcorper felis arcu, sed porttitor ligula pulvinar vel. Maecenas porta lobortis ipsum, in luctus nulla.&lt;/p&gt;
+&lt;p&gt;Nunc vestibulum tortor massa, sit amet aliquet justo bibendum eu. Vestibulum bibendum aliquam metus rutrum congue. Suspendisse dignissim tempus convallis. Pellentesque cursus, leo a fringilla dictum, purus justo finibus dolor, nec vulputate est tortor non est. Donec id tempor sapien. Nam sed egestas est. Praesent lacinia pharetra nisl, id porta tortor pharetra in. Proin magna diam, blandit a porta et, pretium ac nisl. Sed non ultricies mauris. Nulla placerat mattis lorem, quis maximus neque posuere ut. Cras pretium est eu pharetra faucibus.&lt;/p&gt;
+&lt;p&gt;Mauris et elementum erat, sollicitudin pharetra tellus. Aliquam posuere posuere quam. Suspendisse potenti. Integer pellentesque, felis id mattis porta, ligula urna pellentesque ligula, sit amet ultrices lacus ante sit amet tellus. Mauris mi elit, vestibulum cursus eros quis, auctor pretium ipsum. Nam porta tempus eros. Duis a rutrum nunc, blandit placerat nisi. Nullam gravida rutrum ipsum, non dapibus sapien fringilla imperdiet. Nunc facilisis aliquet tempor. Suspendisse blandit faucibus ligula, sit amet accumsan erat vehicula eu. Fusce diam odio, auctor ut leo in, hendrerit rhoncus sapien. Mauris nec pulvinar velit, quis maximus arcu. Vivamus vitae nulla enim. Donec tellus felis, egestas nec porttitor in, hendrerit id sapien. Ut laoreet lectus id tortor scelerisque, quis fringilla risus hendrerit. Suspendisse aliquet urna ut diam tincidunt lacinia.&lt;/p&gt;
+&lt;p&gt;Curabitur porta cursus eros quis facilisis. Cras sed massa nisi. Phasellus convallis leo augue, ut dignissim mauris rutrum non. Fusce aliquam arcu at lorem imperdiet rhoncus. Nam condimentum augue vel elit molestie, sit amet pretium ipsum iaculis. Pellentesque quam tellus, rutrum quis mattis non, mattis non nulla. Aliquam a erat et erat volutpat egestas vel convallis elit. Maecenas cursus placerat metus.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Draco Malfoy Only Had 31 Minutes Of Screen-Time In The 'Harry Potter' Films]]></title><description><![CDATA[Almost 20 years after Harry Potter’s big-screen debut, fans of the hit franchise might assume they’re pretty well versed in the films…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-16-draco-malfoy-only-31-mins/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-16-draco-malfoy-only-31-mins/</guid><pubDate>Fri, 16 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Almost 20 years after Harry Potter’s big-screen debut, fans of the hit franchise might assume they’re pretty well versed in the films inspired by J.K. Rowling’s fantasy novel series. However, news that would surprise even the most ardent Potterhead recently came to light when it was revealed Draco Malfoy had only 31 minutes of screen-time in all eight Harry Potter films.&lt;/p&gt;
+&lt;p&gt;The mind-blowing revelation was unearthed following a recent viral tweet, and a quick scan of the official Harry Potter IMDB page confirms that Tom Felton’s character does indeed have just over half an hour of screen-time throughout all 19 hours and 40 minutes of the eight films.&lt;/p&gt;
+&lt;p&gt;”[T]he fact Draco Malfoy was only in 31 minutes throughout the WHOLE of the Harry Potter franchise (19 hrs &amp;#x26; 40 mins) jus doesn’t sit right with me,” one Twitter user commented.&lt;/p&gt;
+&lt;p&gt;As Tyla reports, Malfoy’s longest appearance can be enjoyed in Harry Potter &amp;#x26; the Half Blood Prince, during which the Slytherin bad boy appears for a grand total of eight minutes. In contrast, the character’s shortest amount of screen-time sits at one minute and 15 seconds in the fifth instalment of the Potter franchise, Order Of The Phoenix.&lt;/p&gt;
+&lt;p&gt;However, lack of screen-time for supporting characters is not uncommon throughout the Potter adaptations. The menacing Lord Voldemort, for instance, appears for a total of 37 minutes and 15 seconds, while fan-favourite Rubeus Hagrid stuck around for just over 45 minutes.&lt;/p&gt;
+&lt;p&gt;Predictably, the film’s core cast were awarded a far greater amount of on-screen exposure throughout all eight films, with Ron Weasley and Hermione Granger appearing for around three and a half hours each, and the main man himself, Harry Potter, enjoyed almost nine hours of screen-time in total, Tyla reports.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[SPACE: What A Mistake!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
+chicken eggs, though the…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-12-space-a-mistake/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-12-space-a-mistake/</guid><pubDate>Mon, 12 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
+chicken eggs, though the taste and texture will be somewhat different, and the
+egg yolk will be less rich.”?
+(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;
+&lt;p&gt;Aenean velit odio, iaculis ut mattis sed, venenatis eu nulla. Nullam cursus, metus non dignissim posuere, libero lectus semper justo, ac interdum nunc odio at felis. Nam interdum tincidunt nulla. Morbi pellentesque in nunc a vehicula. Maecenas sodales, sapien sit amet posuere cursus, lectus eros aliquet arcu, eu rutrum ipsum nulla aliquet turpis. Nulla mi risus, finibus quis metus ac, egestas rutrum nisi. Duis bibendum leo sit amet mi finibus, id suscipit dui fermentum. Nullam vehicula elit quis sem tincidunt laoreet. Sed maximus urna erat, ac varius ligula blandit sed. Integer a magna sed est scelerisque aliquam ut eget eros. Mauris fermentum tempor dignissim. Praesent molestie nibh est, id feugiat ipsum interdum vel. Nam ut tellus a tortor ornare commodo. Sed iaculis massa faucibus sem pharetra luctus. Quisque tempus tortor nulla, at condimentum risus pulvinar vel. Vivamus finibus et arcu et pharetra.&lt;/p&gt;
+&lt;p&gt;Pellentesque nisl arcu, ornare ac tincidunt quis, mollis ut risus. Aliquam molestie fermentum eleifend. Maecenas mollis dolor at tristique iaculis. Sed iaculis dolor at orci accumsan, ac dignissim turpis fringilla. Vestibulum eget augue est. Nam convallis mauris eros, faucibus placerat odio consequat id. Morbi a dolor ut est facilisis pellentesque. Aenean finibus libero ac massa consectetur, ut blandit libero hendrerit. Phasellus pretium urna id nisi pulvinar porttitor.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Where your focus goes, your energy flows.]]></title><description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In fringilla porttitor lacus quis ullamcorper. Vivamus tincidunt justo et turpis…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-08-where-your-focus-goes-your-energy-flows/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-08-where-your-focus-goes-your-energy-flows/</guid><pubDate>Thu, 08 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In fringilla porttitor lacus quis ullamcorper. Vivamus tincidunt justo et turpis ullamcorper feugiat. Maecenas consectetur lobortis enim, quis porttitor massa imperdiet sed. Mauris aliquet metus vitae velit faucibus, ac scelerisque lectus posuere. Vestibulum sit amet mauris sed felis lacinia ultricies. Aliquam sed purus nec turpis ultrices rutrum. Cras tristique justo ac ante lacinia luctus.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/abhaynikam/static/3a8c0d8be7fe574d48f58646c2915662/6fe86/jess-bailey.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.68354430379746%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB69l2DEgP/8QAGBABAQEBAQAAAAAAAAAAAAAAAQARAiH/2gAIAQEAAQUCH1C0LkWWcv/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAMAAwAAAAAAAAAAAAAAAAAQERIhQf/aAAgBAQAGPwJTIvFs/8QAGhABAQADAQEAAAAAAAAAAAAAAQARITFBUf/aAAgBAQABPyHBFCY7Gy2PswNPXLBBOg3/2gAMAwEAAgADAAAAEGf/AP/EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8Qahh//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxBaRn//xAAbEAACAwEBAQAAAAAAAAAAAAABEQAhMXFBUf/aAAgBAQABPxBDpJKMTKLNBOAlMSdGL+FHrg86WeRCtMfyn0if/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chinese Salty Egg&quot;
+        title=&quot;Chinese Salty Egg&quot;
+        src=&quot;/abhaynikam/static/3a8c0d8be7fe574d48f58646c2915662/828fb/jess-bailey.jpg&quot;
+        srcset=&quot;/abhaynikam/static/3a8c0d8be7fe574d48f58646c2915662/ff44c/jess-bailey.jpg 158w,
+/abhaynikam/static/3a8c0d8be7fe574d48f58646c2915662/a6688/jess-bailey.jpg 315w,
+/abhaynikam/static/3a8c0d8be7fe574d48f58646c2915662/828fb/jess-bailey.jpg 630w,
+/abhaynikam/static/3a8c0d8be7fe574d48f58646c2915662/0ede0/jess-bailey.jpg 945w,
+/abhaynikam/static/3a8c0d8be7fe574d48f58646c2915662/3ac88/jess-bailey.jpg 1260w,
+/abhaynikam/static/3a8c0d8be7fe574d48f58646c2915662/6fe86/jess-bailey.jpg 4518w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In viverra eros felis, a consectetur lacus molestie ut. Duis nisl magna, ultrices vel ornare ac, pretium eget lectus. Etiam vehicula suscipit quam nec gravida. Suspendisse rhoncus elementum sollicitudin. Ut tincidunt nisi lacus, vitae finibus metus bibendum at. Sed rutrum convallis augue, quis posuere turpis. Nulla facilisi. Phasellus et felis lacus. Maecenas aliquet commodo ullamcorper. Donec fringilla tortor mollis neque efficitur porttitor. Donec et bibendum massa, at venenatis purus. Aliquam erat volutpat. Quisque et volutpat sapien, maximus congue tellus. In euismod metus nec libero dapibus, ut viverra erat sagittis.&lt;/p&gt;
+&lt;p&gt;Ut ligula ante, egestas at lectus quis, laoreet vehicula urna. Duis faucibus felis quis consequat facilisis. Duis varius ornare diam at tempor. Quisque ipsum dolor, eleifend convallis nunc vel, dignissim lobortis diam. Vivamus a nisi vel turpis tincidunt efficitur sit amet eget risus. Vivamus auctor tincidunt massa nec consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;Curabitur condimentum velit est, non porttitor augue cursus vel. Proin consectetur orci non magna malesuada, vitae egestas sem hendrerit. Praesent auctor nec neque non vulputate. Phasellus at efficitur massa. Cras in congue mi, viverra gravida nisl. Etiam ultrices sem nec elit sollicitudin, id tristique tortor cursus. Integer et ante iaculis, lacinia mauris at, ullamcorper leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean et venenatis velit. Phasellus elementum nec elit quis aliquam. Vivamus convallis metus quis tincidunt semper. Vivamus imperdiet tincidunt eros, convallis pellentesque tellus tristique vel. Vivamus malesuada tempor metus non posuere. Sed ut magna sem.&lt;/p&gt;
+&lt;p&gt;Donec maximus, dolor vitae accumsan consectetur, elit libero egestas ex, eget vestibulum lacus augue at lacus. Phasellus eget sollicitudin nibh. Vestibulum a malesuada turpis, eget ullamcorper purus. Sed a ligula eros. Aliquam et metus nec elit fermentum vehicula non rutrum odio. Nullam ultrices dictum euismod. Quisque suscipit odio et posuere mattis. Suspendisse finibus fringilla ligula, eget efficitur elit pulvinar eu. Nulla facilisi.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Everything you need is within you.]]></title><description><![CDATA[Nunc cursus dolor ut ipsum porttitor pretium. Sed posuere, eros sodales finibus varius, velit urna porttitor turpis, vel ultricies nibh…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-14-everything-you-need-is-within-you/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-10-14-everything-you-need-is-within-you/</guid><pubDate>Tue, 06 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Nunc cursus dolor ut ipsum porttitor pretium. Sed posuere, eros sodales finibus varius, velit urna porttitor turpis, vel ultricies nibh ipsum vel neque. Duis maximus ligula sed est euismod molestie. Nullam id feugiat dui. In interdum cursus ligula, ac fermentum eros fringilla ac. Sed mollis turpis eu urna venenatis lacinia. Sed vel diam turpis. Morbi ut turpis vel tellus dapibus pellentesque. Sed sed tellus risus. Aenean neque lorem, tristique at magna in, porttitor porta turpis.&lt;/p&gt;
+&lt;p&gt;Praesent imperdiet fringilla nisl a efficitur. Proin tincidunt dictum fringilla. Fusce sed tempus eros. Donec id orci ac odio scelerisque lacinia in ac magna. Mauris gravida nisl sed metus consectetur tristique. Aliquam suscipit justo suscipit lorem fringilla suscipit et non leo. Aliquam quis risus finibus, dapibus sem vitae, semper metus. Aliquam aliquet, sapien in ornare luctus, ex nibh luctus eros, sodales imperdiet dui arcu eget felis. Suspendisse rhoncus ipsum congue nisi iaculis, id congue metus placerat. Sed vel feugiat ante, quis accumsan arcu. Vivamus tincidunt scelerisque justo.&lt;/p&gt;
+&lt;h3&gt;Ut tincidunt scelerisque massa at sagittis&lt;/h3&gt;
+&lt;p&gt;Ut tincidunt scelerisque massa at sagittis. Aliquam sed tempor mi. Vestibulum placerat enim eu magna euismod cursus nec et elit. Ut hendrerit vitae ligula vitae porttitor. Morbi tincidunt libero et tellus commodo convallis. Donec dignissim quam metus, sed ornare risus mattis eu. Curabitur suscipit lacus et mi accumsan bibendum.&lt;/p&gt;
+&lt;p&gt;Aenean velit odio, iaculis ut mattis sed, venenatis eu nulla. Nullam cursus, metus non dignissim posuere, libero lectus semper justo, ac interdum nunc odio at felis. Nam interdum tincidunt nulla. Morbi pellentesque in nunc a vehicula. Maecenas sodales, sapien sit amet posuere cursus, lectus eros aliquet arcu, eu rutrum ipsum nulla aliquet turpis. Nulla mi risus, finibus quis metus ac, egestas rutrum nisi. Duis bibendum leo sit amet mi finibus, id suscipit dui fermentum. Nullam vehicula elit quis sem tincidunt laoreet. Sed maximus urna erat, ac varius ligula blandit sed. Integer a magna sed est scelerisque aliquam ut eget eros. Mauris fermentum tempor dignissim. Praesent molestie nibh est, id feugiat ipsum interdum vel. Nam ut tellus a tortor ornare commodo. Sed iaculis massa faucibus sem pharetra luctus. Quisque tempus tortor nulla, at condimentum risus pulvinar vel. Vivamus finibus et arcu et pharetra.&lt;/p&gt;
+&lt;p&gt;Pellentesque nisl arcu, ornare ac tincidunt quis, mollis ut risus. Aliquam molestie fermentum eleifend. Maecenas mollis dolor at tristique iaculis. Sed iaculis dolor at orci accumsan, ac dignissim turpis fringilla. Vestibulum eget augue est. Nam convallis mauris eros, faucibus placerat odio consequat id. Morbi a dolor ut est facilisis pellentesque. Aenean finibus libero ac massa consectetur, ut blandit libero hendrerit. Phasellus pretium urna id nisi pulvinar porttitor.&lt;/p&gt;
+&lt;h3&gt;Morbi eu elit eget quam suscipit finibus&lt;/h3&gt;
+&lt;p&gt;Morbi eu elit eget quam suscipit finibus. Praesent condimentum congue justo vel auctor. Donec quis arcu est. Aenean posuere mi eros, at egestas odio aliquet sit amet. Sed quis libero suscipit, accumsan lorem vel, placerat augue. Duis vel condimentum nulla. Aenean eget metus et nisl vulputate vehicula. Cras ac consectetur diam, vel lacinia enim.&lt;/p&gt;
+&lt;p&gt;Donec sed purus vehicula, posuere arcu ut, ornare purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In placerat nisi ante, tempor aliquet mi porta sed. Morbi vehicula egestas sem, in aliquet leo tristique non. Praesent venenatis nisi vulputate turpis rutrum, sed scelerisque dui aliquam. Cras feugiat nunc quis odio suscipit ullamcorper. Vestibulum condimentum tincidunt commodo. Mauris vestibulum suscipit pellentesque. Duis ut lacus et sapien suscipit consectetur vel a sapien. Suspendisse ullamcorper felis arcu, sed porttitor ligula pulvinar vel. Maecenas porta lobortis ipsum, in luctus nulla.&lt;/p&gt;
+&lt;p&gt;Nunc vestibulum tortor massa, sit amet aliquet justo bibendum eu. Vestibulum bibendum aliquam metus rutrum congue. Suspendisse dignissim tempus convallis. Pellentesque cursus, leo a fringilla dictum, purus justo finibus dolor, nec vulputate est tortor non est. Donec id tempor sapien. Nam sed egestas est. Praesent lacinia pharetra nisl, id porta tortor pharetra in. Proin magna diam, blandit a porta et, pretium ac nisl. Sed non ultricies mauris. Nulla placerat mattis lorem, quis maximus neque posuere ut. Cras pretium est eu pharetra faucibus.&lt;/p&gt;
+&lt;p&gt;Mauris et elementum erat, sollicitudin pharetra tellus. Aliquam posuere posuere quam. Suspendisse potenti. Integer pellentesque, felis id mattis porta, ligula urna pellentesque ligula, sit amet ultrices lacus ante sit amet tellus. Mauris mi elit, vestibulum cursus eros quis, auctor pretium ipsum. Nam porta tempus eros. Duis a rutrum nunc, blandit placerat nisi. Nullam gravida rutrum ipsum, non dapibus sapien fringilla imperdiet. Nunc facilisis aliquet tempor. Suspendisse blandit faucibus ligula, sit amet accumsan erat vehicula eu. Fusce diam odio, auctor ut leo in, hendrerit rhoncus sapien. Mauris nec pulvinar velit, quis maximus arcu. Vivamus vitae nulla enim. Donec tellus felis, egestas nec porttitor in, hendrerit id sapien. Ut laoreet lectus id tortor scelerisque, quis fringilla risus hendrerit. Suspendisse aliquet urna ut diam tincidunt lacinia.&lt;/p&gt;
+&lt;h3&gt;Curabitur porta&lt;/h3&gt;
+&lt;p&gt;Curabitur porta cursus eros quis facilisis. Cras sed massa nisi. Phasellus convallis leo augue, ut dignissim mauris rutrum non. Fusce aliquam arcu at lorem imperdiet rhoncus. Nam condimentum augue vel elit molestie, sit amet pretium ipsum iaculis. Pellentesque quam tellus, rutrum quis mattis non, mattis non nulla. Aliquam a erat et erat volutpat egestas vel convallis elit. Maecenas cursus placerat metus.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[nesciunt iure omnis dolorem tempora et accusantium]]></title><description><![CDATA[est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-30-magnam-facilis-autem/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-30-magnam-facilis-autem/</guid><pubDate>Wed, 30 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla&lt;/p&gt;
+&lt;p&gt;Morbi eu elit eget quam suscipit finibus. Praesent condimentum congue justo vel auctor. Donec quis arcu est. Aenean posuere mi eros, at egestas odio aliquet sit amet. Sed quis libero suscipit, accumsan lorem vel, placerat augue. Duis vel condimentum nulla. Aenean eget metus et nisl vulputate vehicula. Cras ac consectetur diam, vel lacinia enim.&lt;/p&gt;
+&lt;p&gt;Donec sed purus vehicula, posuere arcu ut, ornare purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In placerat nisi ante, tempor aliquet mi porta sed. Morbi vehicula egestas sem, in aliquet leo tristique non. Praesent venenatis nisi vulputate turpis rutrum, sed scelerisque dui aliquam. Cras feugiat nunc quis odio suscipit ullamcorper. Vestibulum condimentum tincidunt commodo. Mauris vestibulum suscipit pellentesque. Duis ut lacus et sapien suscipit consectetur vel a sapien. Suspendisse ullamcorper felis arcu, sed porttitor ligula pulvinar vel. Maecenas porta lobortis ipsum, in luctus nulla.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio]]></title><description><![CDATA[est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-25-optio-molestias-id/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-25-optio-molestias-id/</guid><pubDate>Fri, 25 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla&lt;/p&gt;
+&lt;p&gt;Morbi eu elit eget quam suscipit finibus. Praesent condimentum congue justo vel auctor. Donec quis arcu est. Aenean posuere mi eros, at egestas odio aliquet sit amet. Sed quis libero suscipit, accumsan lorem vel, placerat augue. Duis vel condimentum nulla. Aenean eget metus et nisl vulputate vehicula. Cras ac consectetur diam, vel lacinia enim.&lt;/p&gt;
+&lt;p&gt;Donec sed purus vehicula, posuere arcu ut, ornare purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In placerat nisi ante, tempor aliquet mi porta sed. Morbi vehicula egestas sem, in aliquet leo tristique non. Praesent venenatis nisi vulputate turpis rutrum, sed scelerisque dui aliquam. Cras feugiat nunc quis odio suscipit ullamcorper. Vestibulum condimentum tincidunt commodo. Mauris vestibulum suscipit pellentesque. Duis ut lacus et sapien suscipit consectetur vel a sapien. Suspendisse ullamcorper felis arcu, sed porttitor ligula pulvinar vel. Maecenas porta lobortis ipsum, in luctus nulla.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[nesciunt iure omnis dolorem tempora et accusantium]]></title><description><![CDATA[est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-20-nesciunt-quas-odio/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-20-nesciunt-quas-odio/</guid><pubDate>Sun, 20 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla&lt;/p&gt;
+&lt;p&gt;Morbi eu elit eget quam suscipit finibus. Praesent condimentum congue justo vel auctor. Donec quis arcu est. Aenean posuere mi eros, at egestas odio aliquet sit amet. Sed quis libero suscipit, accumsan lorem vel, placerat augue. Duis vel condimentum nulla. Aenean eget metus et nisl vulputate vehicula. Cras ac consectetur diam, vel lacinia enim.&lt;/p&gt;
+&lt;p&gt;Donec sed purus vehicula, posuere arcu ut, ornare purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In placerat nisi ante, tempor aliquet mi porta sed. Morbi vehicula egestas sem, in aliquet leo tristique non. Praesent venenatis nisi vulputate turpis rutrum, sed scelerisque dui aliquam. Cras feugiat nunc quis odio suscipit ullamcorper. Vestibulum condimentum tincidunt commodo. Mauris vestibulum suscipit pellentesque. Duis ut lacus et sapien suscipit consectetur vel a sapien. Suspendisse ullamcorper felis arcu, sed porttitor ligula pulvinar vel. Maecenas porta lobortis ipsum, in luctus nulla.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Eum et est occaecati]]></title><description><![CDATA[ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-15-eum-et-est-occaecati/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-15-eum-et-est-occaecati/</guid><pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit&lt;/p&gt;
+&lt;p&gt;Morbi eu elit eget quam suscipit finibus. Praesent condimentum congue justo vel auctor. Donec quis arcu est. Aenean posuere mi eros, at egestas odio aliquet sit amet. Sed quis libero suscipit, accumsan lorem vel, placerat augue. Duis vel condimentum nulla. Aenean eget metus et nisl vulputate vehicula. Cras ac consectetur diam, vel lacinia enim.&lt;/p&gt;
+&lt;p&gt;Donec sed purus vehicula, posuere arcu ut, ornare purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In placerat nisi ante, tempor aliquet mi porta sed. Morbi vehicula egestas sem, in aliquet leo tristique non. Praesent venenatis nisi vulputate turpis rutrum, sed scelerisque dui aliquam. Cras feugiat nunc quis odio suscipit ullamcorper. Vestibulum condimentum tincidunt commodo. Mauris vestibulum suscipit pellentesque. Duis ut lacus et sapien suscipit consectetur vel a sapien. Suspendisse ullamcorper felis arcu, sed porttitor ligula pulvinar vel. Maecenas porta lobortis ipsum, in luctus nulla.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Qui est esse]]></title><description><![CDATA[est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-10-qui-est-esse/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-10-qui-est-esse/</guid><pubDate>Thu, 10 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla&lt;/p&gt;
+&lt;p&gt;Morbi eu elit eget quam suscipit finibus. Praesent condimentum congue justo vel auctor. Donec quis arcu est. Aenean posuere mi eros, at egestas odio aliquet sit amet. Sed quis libero suscipit, accumsan lorem vel, placerat augue. Duis vel condimentum nulla. Aenean eget metus et nisl vulputate vehicula. Cras ac consectetur diam, vel lacinia enim.&lt;/p&gt;
+&lt;p&gt;Donec sed purus vehicula, posuere arcu ut, ornare purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In placerat nisi ante, tempor aliquet mi porta sed. Morbi vehicula egestas sem, in aliquet leo tristique non. Praesent venenatis nisi vulputate turpis rutrum, sed scelerisque dui aliquam. Cras feugiat nunc quis odio suscipit ullamcorper. Vestibulum condimentum tincidunt commodo. Mauris vestibulum suscipit pellentesque. Duis ut lacus et sapien suscipit consectetur vel a sapien. Suspendisse ullamcorper felis arcu, sed porttitor ligula pulvinar vel. Maecenas porta lobortis ipsum, in luctus nulla.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dea molestias quasi exercitationem repellat qui ipsa sit aut]]></title><description><![CDATA[et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-05-ea-molestias-quasi/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-05-ea-molestias-quasi/</guid><pubDate>Sat, 05 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut&lt;/p&gt;
+&lt;p&gt;Morbi eu elit eget quam suscipit finibus. Praesent condimentum congue justo vel auctor. Donec quis arcu est. Aenean posuere mi eros, at egestas odio aliquet sit amet. Sed quis libero suscipit, accumsan lorem vel, placerat augue. Duis vel condimentum nulla. Aenean eget metus et nisl vulputate vehicula. Cras ac consectetur diam, vel lacinia enim.&lt;/p&gt;
+&lt;p&gt;Donec sed purus vehicula, posuere arcu ut, ornare purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In placerat nisi ante, tempor aliquet mi porta sed. Morbi vehicula egestas sem, in aliquet leo tristique non. Praesent venenatis nisi vulputate turpis rutrum, sed scelerisque dui aliquam. Cras feugiat nunc quis odio suscipit ullamcorper. Vestibulum condimentum tincidunt commodo. Mauris vestibulum suscipit pellentesque. Duis ut lacus et sapien suscipit consectetur vel a sapien. Suspendisse ullamcorper felis arcu, sed porttitor ligula pulvinar vel. Maecenas porta lobortis ipsum, in luctus nulla.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[sunt aut facere repellat provident occaecati excepturi optio reprehenderit]]></title><description><![CDATA[quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-01-sunt-aut-facere-repellat/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/blog/2020-09-01-sunt-aut-facere-repellat/</guid><pubDate>Tue, 01 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto&lt;/p&gt;
+&lt;p&gt;Morbi eu elit eget quam suscipit finibus. Praesent condimentum congue justo vel auctor. Donec quis arcu est. Aenean posuere mi eros, at egestas odio aliquet sit amet. Sed quis libero suscipit, accumsan lorem vel, placerat augue. Duis vel condimentum nulla. Aenean eget metus et nisl vulputate vehicula. Cras ac consectetur diam, vel lacinia enim.&lt;/p&gt;
+&lt;p&gt;Donec sed purus vehicula, posuere arcu ut, ornare purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In placerat nisi ante, tempor aliquet mi porta sed. Morbi vehicula egestas sem, in aliquet leo tristique non. Praesent venenatis nisi vulputate turpis rutrum, sed scelerisque dui aliquam. Cras feugiat nunc quis odio suscipit ullamcorper. Vestibulum condimentum tincidunt commodo. Mauris vestibulum suscipit pellentesque. Duis ut lacus et sapien suscipit consectetur vel a sapien. Suspendisse ullamcorper felis arcu, sed porttitor ligula pulvinar vel. Maecenas porta lobortis ipsum, in luctus nulla.&lt;/p&gt;</content:encoded></item></channel></rss>
