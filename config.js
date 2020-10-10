@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: `https://gatsby-starter-blog-demo.netlify.app/`,
+  url: `https://abhaynikam.github.io/gatsby-nice-blog/`,
   description: `A nice starter blog post boilerplate template built using Gatsby.`,
   pathPrefix: '/',
   title: `Nice Blogs`,
