@@ -30,9 +30,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           itemProp="articleBody"
         />
         <hr />
-        <footer>
-          <Bio />
-        </footer>
+        <footer><Bio /></footer>
       </article>
       <nav className="blog-post-nav">
         <ul
@@ -46,15 +44,15 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         >
           <li>
             {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
+              <Link to={previous.node.fields.slug} rel="prev">
+                ← {previous.node.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
+              <Link to={next.node.fields.slug} rel="next">
+                {next.node.frontmatter.title} →
               </Link>
             )}
           </li>

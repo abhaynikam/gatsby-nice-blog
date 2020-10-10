@@ -1,5 +1,6 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from "react";
+import { Link } from "gatsby";
+import FooterSocialIcons from "./footer-social-icons";
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -24,13 +25,17 @@ const Layout = ({ location, title, children }) => {
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">{header}</header>
       <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+      <footer className="d-flex">
+        <div className="copyright-text">
+          Copyright © {new Date().getFullYear()},&nbsp;
+          <a href="http://abhaynikam.me/">Abhay Nikam</a>
+        </div>
+        <div className="footer-icon-group">
+          <FooterSocialIcons />
+        </div>
       </footer>
     </div>
-  )
+  );
 }
 
 export default Layout
