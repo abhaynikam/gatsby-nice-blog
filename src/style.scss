@@ -285,16 +285,6 @@ a:focus {
   border-bottom: 2px solid;
   margin-bottom: var(--spacing-12);
 
-  .header-link-home,
-  .main-heading {
-    width: 50%;
-    text-align: left;
-  }
-
-  .header-nav-link {
-    width: 50%;
-    text-align: right;
-  }
 }
 
 .main-heading {
@@ -387,6 +377,7 @@ a:focus {
   }
 }
 
+
 /* Pagniation */
 
 .pagination {
@@ -445,17 +436,10 @@ a:focus {
     align-items: center;
 
     .title {
-      width: 80%;
-      text-align: left;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
-    }
-
-    .date {
-      width: 20%;
-      text-align: right;
-    }
+    } 
   }
 }
 
@@ -496,4 +480,60 @@ a:focus {
   display: flex;
   justify-content: flex-end;
   font-size: var(--fontSize-0)
+}
+
+@media (max-width: 800px) {
+  .blog-list-item{
+    display: flex;
+    flex-direction: column;
+
+  a{
+    width: 100%;
+    text-align: center;
+  }
+  }
+  .main-heading{
+    width: 80%;
+    text-align: left;
+  }
+  .header-nav-link{
+    width: 20%;
+    text-align: right;
+  }
+}
+
+@media (min-width: 801px) {
+  
+  .title {
+    width: 80%;
+    text-align: left;
+  }
+
+  .date {
+    width: 20%;
+    text-align: right;
+  }
+  .header-link-home, .main-heading{
+    width: 80%;
+    text-align: left;
+  }
+  .header-nav-link{
+    width: 20%;
+    text-align: right;
+  }
+}
+
+@media (max-width: 315px) {
+  .global-header
+  {
+    flex-direction: column;
+  }
+  .header-link-home, .main-heading{
+    text-align: center;
+    width: 100%;
+  }
+  .header-nav-link{
+    text-align: center;
+    width: 100%;
+  }
 }
