@@ -482,6 +482,7 @@ a:focus {
   font-size: var(--fontSize-0)
 }
 
+
 @media (max-width: 800px) {
   .blog-list-item{
     display: flex;
@@ -493,7 +494,7 @@ a:focus {
   }
   }
   .main-heading{
-    width: 80%;
+    width: 60%;
     text-align: left;
   }
   .header-nav-link{
@@ -527,13 +528,99 @@ a:focus {
   .global-header
   {
     flex-direction: column;
+    align-items: center;
   }
   .header-link-home, .main-heading{
     text-align: center;
     width: 100%;
   }
+  .main-heading{
+    width:50%;
+  }
+  .sun-moon{
+    margin: 10px 0px;
+  }
   .header-nav-link{
     text-align: center;
     width: 100%;
   }
+}
+
+
+
+
+
+.sun-moon {
+  position: relative;
+  width: 80px;
+  height: 40px;
+  padding: 5px;
+  border-radius: 45px;
+  border: 3px solid #1a237e;
+  background-color: #3f51b5;
+  overflow: hidden;
+  transition: all 1s cubic-bezier(0.6, -0.28, 0.735, 0.045);   
+  margin-left: 10px;  
+
+}
+
+.circle {
+  border-radius: 100%;
+  display: inline-block;
+  position: absolute;
+}
+
+.small {
+  width: 40px;
+  height: 40px;
+  background: #3f51b5;
+  left: 18px;
+  top: -3px;
+  transition: all 1s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.large {
+  width: 25px;
+  height: 25px;
+  background: #fff;
+  border: 3px solid #fff;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 7px;
+  transition: all 1s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+
+
+.sun-moon input {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  margin: 0;
+  
+  opacity: 0;
+  z-index: 1;
+  cursor: pointer;
+  transition: all 1s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.move {
+  background-color: #fff;
+  border-color: #f3909a;
+}
+
+//Move the bigger circle
+.move .large {
+  left: 40px;
+  background: yellow;
+  border-color: orange;
+}
+
+//Move the smaller circle
+.move .small {
+  left: 60px;
+  top: 50px;
+  background-color: #fff;
 }

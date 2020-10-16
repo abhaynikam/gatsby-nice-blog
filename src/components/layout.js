@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import FooterSocialIcons from "./footer-social-icons";
-
+import { dualMode } from '../utils/style-changer';
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
@@ -28,6 +28,11 @@ const Layout = ({ location, title, children }) => {
         <Link className="header-nav-link" to="/pages/about/">
           About
         </Link>
+        <div class="sun-moon" onClick={dualMode}>
+          <input type="checkbox" />
+          <span class="circle large"></span>
+          <span class="circle small"></span>
+        </div>
       </header>
       <main>{children}</main>
       <footer className="d-flex">
