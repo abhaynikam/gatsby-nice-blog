@@ -39,7 +39,7 @@ const Layout = ({ location, title, children }) => {
                   onClick={e => toggleTheme(theme === 'light' ? 'dark' : 'light')}  
                 >                
                 {
-                  theme === "dark" ? <img src={sun} alt="toggle theme" className="sun"/> : <img src={moon} alt="toggle theme" className="moon"/>
+                   <img src={theme === "dark" ?sun:moon} alt="toggle theme" className="sun-moon"/>
                 }    
                 
                 </button>

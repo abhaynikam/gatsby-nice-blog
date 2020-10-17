@@ -528,12 +528,12 @@ a:focus {
     text-align: left;
   }
   .header-nav-link{
-    width: 20%;
+    width: 15%;
     text-align: right;
   }
   .container{
     align-items: flex-start;
-    width: 5%;
+    width: 15%;
   }
 }
 
@@ -553,13 +553,13 @@ a:focus {
     text-align: left;
   }
   .header-nav-link{
-    width: 20%;
+    width: 15%;
     text-align: right;
   }
   .container{
     
     align-items: flex-end;
-    width: 5%;
+    width: 10%;
   }
 }
 
@@ -585,6 +585,7 @@ a:focus {
   .container{
     align-items: center;
     width: 100%;
+    margin-bottom:4px ;
   }
   
 }
@@ -596,25 +597,18 @@ a:focus {
   background: transparent none repeat scroll 0% 0%;
   align-self: center;
   cursor: pointer;
-  
+  margin-bottom:4px ;
 
 }
-.toggle-button:focus{
-  outline: none medium;
-}
-.sun:hover{
+
+.sun-moon:hover{
   opacity: 1;
 }
-.moon:hover{
-  opacity: 1;
-}
-.sun{
-  height: 28px;
+
+.sun-moon{
+  height: 30px;
   opacity: 0.5;
-}
-.moon{
-  height: 28px;
-  opacity: 0.5;
+  width: 100%;
   
 }
 .container{
