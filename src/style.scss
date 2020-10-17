@@ -65,6 +65,7 @@
   --color-background: #fefcf8;
   --color-link: #3e8ec8;
   --color-bg-highlight: #f3efe5;
+
 }
 
 /* HTML elements */
@@ -90,6 +91,7 @@ body {
   font-weight: var(--fontWeight-medium);
   color: var(--color-text);
   background-color: var(--color-background);
+  transition: all 1s ease 0s;
 }
 
 body.dark {
@@ -487,7 +489,6 @@ a:focus {
   fill: var(--color-text);
   font-style: normal;
   font-weight: normal;
-  speak: none;
   margin-right: .2em;
   text-align: center;
   font-variant: normal;
@@ -518,13 +519,21 @@ a:focus {
     text-align: center;
   }
   }
+  .header-link-home{
+    width: 70%;
+    text-align: left;
+  }
   .main-heading{
-    width: 80%;
+    width: 70%;
     text-align: left;
   }
   .header-nav-link{
     width: 20%;
     text-align: right;
+  }
+  .container{
+    align-items: flex-start;
+    width: 5%;
   }
 }
 
@@ -540,16 +549,21 @@ a:focus {
     text-align: right;
   }
   .header-link-home, .main-heading{
-    width: 80%;
+    width: 75%;
     text-align: left;
   }
   .header-nav-link{
     width: 20%;
     text-align: right;
   }
+  .container{
+    
+    align-items: flex-end;
+    width: 5%;
+  }
 }
 
-@media (max-width: 315px) {
+@media (max-width: 350px) {
   .global-header
   {
     flex-direction: column;
@@ -562,4 +576,35 @@ a:focus {
     text-align: center;
     width: 100%;
   }
+  .toggle-button{
+    margin-top: 5px;  
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+  }
+  .container{
+    align-items: center;
+    width: 100%;
+  }
+  
+}
+
+.toggle-button {
+  width: 100%;
+  height: 30px;
+  border: medium none;
+  background: transparent none repeat scroll 0% 0%;
+  align-self: center;
+  cursor: pointer;
+  
+
+}
+.toggle-button:focus{
+  outline: currentcolor none medium;
+}
+.sun-moon-img{
+  height: 35px;
+}
+.container{
+  display: flex;
 }
