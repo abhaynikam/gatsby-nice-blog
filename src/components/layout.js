@@ -37,8 +37,11 @@ const Layout = ({ location, title, children }) => {
               <div className="container">
                 <button className="toggle-button"
                   onClick={e => toggleTheme(theme === 'light' ? 'dark' : 'light')}  
-                >                    
-                <img src={theme === "dark" ? sun : moon} alt="toggle theme" className="sun-moon-img"/>
+                >                
+                {
+                  theme === "dark" ? <img src={sun} alt="toggle theme" className="sun"/> : <img src={moon} alt="toggle theme" className="moon"/>
+                }    
+                
                 </button>
             </div>
           </header>

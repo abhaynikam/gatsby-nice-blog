@@ -600,11 +600,24 @@ a:focus {
 
 }
 .toggle-button:focus{
-  outline: currentcolor none medium;
+  outline: none medium;
 }
-.sun-moon-img{
-  height: 35px;
+.sun:hover{
+  opacity: 1;
+}
+.moon:hover{
+  opacity: 1;
+}
+.sun{
+  height: 28px;
+  opacity: 0.5;
+}
+.moon{
+  height: 28px;
+  opacity: 0.5;
+  
 }
 .container{
   display: flex;
+ 
 }
