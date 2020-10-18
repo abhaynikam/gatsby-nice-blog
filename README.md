@@ -112,3 +112,6 @@ The boilerplate blog template is available as open source under the terms of the
 
 ## Author
 [Abhay Nikam](https://www.abhaynikam.me/pages/about)
+
+## Contributors
+[Chinmay Mehta](https://github.com/chinmaym07)
