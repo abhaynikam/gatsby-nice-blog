@@ -2,8 +2,8 @@ import React from "react";
 import { Link } from "gatsby";
 import { ThemeToggler } from "gatsby-plugin-dark-mode";
 import FooterSocialIcons from "./footer-social-icons";
-import moon  from '../assets/moon.svg';
-import sun from '../assets/sun.svg';
+import MoonSvg from '../assets/moon.svg';
+import SunSvg from '../assets/sun.svg';
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -30,19 +30,15 @@ const Layout = ({ location, title, children }) => {
         <div className="global-wrapper" data-is-root-path={isRootPath}>
           <header className="global-header">
             {headerSiteText}
-            
+            <div className="header-actions">
               <Link className="header-nav-link" to="/pages/about/">
                 About
               </Link>
-              <div className="container">
-                <button className="toggle-button"
-                  onClick={e => toggleTheme(theme === 'light' ? 'dark' : 'light')}  
-                >                
-                {
-                   <img src={theme === "dark" ?sun:moon} alt="toggle theme" className="sun-moon"/>
-                }    
-                
-                </button>
+              <button className="toggle-button header-nav-link"
+                onClick={e => toggleTheme(theme === 'light' ? 'dark' : 'light')}
+              >
+                <img src={theme === "dark" ? SunSvg : MoonSvg} alt="toggle theme" className="sun-moon"/>
+              </button>
             </div>
           </header>
           <main>{children}</main>

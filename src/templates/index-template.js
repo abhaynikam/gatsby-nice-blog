@@ -7,7 +7,6 @@ import SEO from "../components/seo";
 import Pagination from "../components/pagination";
 
 const BlogIndex = ({ data, location, pageContext }) => {
-  console.log(data);
   const siteTitle = data.site.siteMetadata.title;
   const { edges } = data.allMarkdownRemark;
   const {

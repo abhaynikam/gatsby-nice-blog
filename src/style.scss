@@ -514,31 +514,33 @@ a:focus {
     display: flex;
     flex-direction: column;
 
-  a{
-    width: 100%;
-    text-align: center;
-  }
+    a {
+      width: 100%;
+      text-align: center;
+    }
   }
   .header-link-home{
     width: 70%;
     text-align: left;
   }
-  .main-heading{
+
+  .main-heading {
     width: 70%;
     text-align: left;
   }
+
   .header-nav-link{
     width: 15%;
     text-align: right;
   }
-  .container{
+
+  .container {
     align-items: flex-start;
     width: 15%;
   }
 }
 
 @media (min-width: 801px) {
-
   .title {
     width: 80%;
     text-align: left;
@@ -548,70 +550,71 @@ a:focus {
     width: 20%;
     text-align: right;
   }
+
   .header-link-home, .main-heading{
     width: 75%;
     text-align: left;
   }
-  .header-nav-link{
-    width: 15%;
-    text-align: right;
-  }
-  .container{
-    
-    align-items: flex-end;
-    width: 10%;
+
+  .header-actions {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+
+    .header-nav-link{
+      width: 15%;
+      text-align: right;
+    }
   }
 }
 
 @media (max-width: 350px) {
-  .global-header
-  {
+  .global-header {
     flex-direction: column;
   }
-  .header-link-home, .main-heading{
+
+  .header-link-home, .main-heading {
     text-align: center;
     width: 100%;
   }
-  .header-nav-link{
+
+  .header-nav-link {
     text-align: center;
     width: 100%;
   }
-  .toggle-button{
-    margin-top: 5px;  
-    margin-bottom: 10px;
+
+  .header-actions {
+    display: flex;
     width: 100%;
-    text-align: center;
+    justify-content: flex-end;
+
+    .toggle-button {
+      margin-top: 5px;
+      margin-bottom: 10px;
+      width: 100%;
+      text-align: center;
+    }
   }
-  .container{
-    align-items: center;
-    width: 100%;
-    margin-bottom:4px ;
-  }
-  
 }
 
-.toggle-button {
-  width: 100%;
-  height: 30px;
-  border: medium none;
-  background: transparent none repeat scroll 0% 0%;
-  align-self: center;
-  cursor: pointer;
-  margin-bottom:4px ;
-
-}
-
-.sun-moon:hover{
-  opacity: 1;
-}
-
-.sun-moon{
-  height: 30px;
-  opacity: 0.5;
-  width: 100%;
-  
-}
-.container{
+.header-actions {
   display: flex;
- 
+  width: 100%;
+  justify-content: flex-end;
+
+  .toggle-button {
+    width: 40px;
+    border: medium none;
+    background: transparent none repeat scroll 0% 0%;
+    cursor: pointer;
+    outline: none;
+  }
+
+  .sun-moon:hover{
+    opacity: 1;
+  }
+
+  .sun-moon{
+    height: 22px;
+  }
 }
