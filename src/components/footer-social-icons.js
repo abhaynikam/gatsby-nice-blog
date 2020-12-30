@@ -11,13 +11,13 @@ const FooterSocialIcons = () => {
 
       return (
         <a
-          key={social[name]}
+          key={name}
           href={getContactHref(name, social[name])}
           rel="noopener noreferrer"
           target="_blank"
         >
           <svg viewBox={contact.viewBox} className="footer-social-icon">
-          <title>{name}</title>
+            <title>{name}</title>
             <path d={contact.path} />
           </svg>
         </a>
